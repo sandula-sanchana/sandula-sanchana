@@ -1,3 +1,4 @@
+![Funny Cat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2EwYng4cjE4M3Fudm9xZ3drbDhubWhha3d2c2xjZDZyZ3YzaW9uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 <h1 align="center">Hi 👋, I'm Sandula Sanchana</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
