@@ -1,7 +1,6 @@
 <img src="assets/my_logo.png" width="300" />
 
-# 💫 **About Me**:
-## Hi 👋, I'm Sandula Sanchana<br>A passionate full-stack developer from Sri Lanka
+AI/ML Enthusiast | Full-Stack Developer
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sandula-sanchana&label=Profile%20views&color=0e75b6&style=flat" alt="sandula-sanchana" />
