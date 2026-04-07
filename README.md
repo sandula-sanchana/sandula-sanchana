@@ -31,3 +31,16 @@ current_focus:
   - React
   - Better system design
 style: Clean. Animated. Electric.
+
+⚡ Core Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,tailwind,mysql,git,github,vscode,idea" /> </div>
+
+📊 GitHub Pulse
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandula-sanchana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="170" src="https://streak-stats.demolab.com?user=sandula-sanchana&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandula-sanchana&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+
+⚡ Contribution Surge
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandula-sanchana/sandula-sanchana/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandula-sanchana/sandula-sanchana/output/github-snake.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/sandula-sanchana/sandula-sanchana/output/github-snake.svg" /> </picture> </div> <div align="center">
+
+Charging through commits, one square at a time.
+
+</div>
