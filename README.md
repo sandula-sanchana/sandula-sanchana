@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/Focus-AI%2FML-0d1117?style=for-the-badge&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/Backend-Spring%20Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/Frontend-React-0d1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Vibe-Lightning%20Ninja-0d1117?style=for-the-badge&logoColor=58A6FF" />
 
 </div>
 
