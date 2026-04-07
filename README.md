@@ -6,9 +6,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-AI%2FML-0d1117?style=for-the-badge&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Backend-Spring%20Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Frontend-React-0d1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20HTML%20%7C%20CSS-0d1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20Express-0d1117?style=for-the-badge&logo=springboot&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/TypeScript%20Backend-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/ML-Python%20%7C%20PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=58A6FF" />
 
 </div>
 
