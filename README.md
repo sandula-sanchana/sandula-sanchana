@@ -1,18 +1,102 @@
-<img src="assets/my_logo.png" width="300" />
+<div align="center">
 
-AI/ML Enthusiast | Full-Stack Developer
+# 𝙎𝙖𝙣𝙙𝙪𝙡𝙖 𝙎𝙖𝙣𝙘𝙝𝙖𝙣𝙖
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sandula-sanchana&label=Profile%20views&color=0e75b6&style=flat" alt="sandula-sanchana" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+InShift+%26+creative+UI+experiences" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/sanchana.akarsha.2025/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandula-sanchana-010708371/) | [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@sandula.sanchana) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sandulasanchana) | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandulasanchana@gmail.com)
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sandula-sanchana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✦ About Me
+
+- 🎓 Student developer from Sri Lanka
+- ⚙️ Interested in **AI/ML, full-stack development, backend systems, and modern UI**
+- 🚀 Building projects like **InShift**, **BakeTrack**, and creative React experiences
+- 🎨 I like **clean, animated, award-style interfaces**
+- 🌱 Currently growing in **Java, Spring Boot, React, and system design**
+
+---
+
+## ✦ Featured Projects
+
+### 🔹 InShift
+Smart attendance and presence verification system with analytics, risk-aware monitoring, and modern admin/employee dashboards.
+
+- Backend: [inShift-Backend](https://github.com/sandula-sanchana/inShift-Backend)
+- Frontend: [inShift-Frontend](https://github.com/sandula-sanchana/inShift-Frontend)
+
+### 🔹 BakeTrack
+A layered Java project focused on bakery/business operations and management workflows.
+
+- Repository: [BakeTrack-Layered](https://github.com/sandula-sanchana/BakeTrack-Layered)
+
+### 🔹 Portfolio
+Modern animated portfolio built with React, JavaScript, GSAP, and Spline.
+
+- Repository: [portfolio-react](https://github.com/sandula-sanchana/portfolio-react)
+
+### 🔹 QuickByte
+Restaurant management / web POS concept project.
+
+- Repository: [QuickByte-Restaurant-management-System](https://github.com/sandula-sanchana/QuickByte-Restaurant-management-System)
+
+### 🔹 ByteLink
+Java chat application project.
+
+- Repository: [ByteLink-java-Chat-Application](https://github.com/sandula-sanchana/ByteLink-java-Chat-Application)
+
+---
+
+## ✦ GitHub Energy
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandula-sanchana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://streak-stats.demolab.com?user=sandula-sanchana&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandula-sanchana&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## ✦ Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandula-sanchana&theme=tokyonight" />
+</div>
+
+---
+
+## ✦ Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandula-sanchana/sandula-sanchana/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandula-sanchana/sandula-sanchana/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sandula-sanchana/sandula-sanchana/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## ✦ Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandula-sanchana)
+
+</div>
+
+---
+
+<div align="center">
+
+### 𝘉𝘶𝘪𝘭𝘥. 𝘓𝘦𝘢𝘳𝘯. 𝘐𝘵𝘦𝘳𝘢𝘵𝘦. 𝘔𝘢𝘬𝘦 𝘪𝘵 𝘭𝘰𝘰𝘬 𝘤𝘭𝘦𝘢𝘯.
+
+</div>
