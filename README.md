@@ -21,12 +21,13 @@
 name: Sandula Sanchana
 role: Full-Stack Developer
 interests:
+  - System and Software Security
   - AI/ML
   - Backend Systems
   - Modern UI
   - Creative Frontend Experiences
 current_focus:
-  - InShift
+  - ML (NN AND LLM)
   - Spring Boot
   - React
   - Better system design
