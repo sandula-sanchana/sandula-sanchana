@@ -30,7 +30,6 @@ current_focus:
   - Spring Boot
   - React
   - Better system design
-style: Clean. Animated. Electric.
 ~~~
 
 ---
